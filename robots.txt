@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odiduazi.github.io/Hbr/sitemap_index.txt
+Sitemap: https://odiduazi.github.io/Hop/sitemap_index.txt
+Sitemap: https://odiduazi.github.io/NIg/sitemap_index.txt
+Sitemap: https://odiduazi.github.io/xWL/sitemap_index.txt
